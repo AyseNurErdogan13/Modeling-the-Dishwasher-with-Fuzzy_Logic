@@ -1,4 +1,5 @@
 # Modeling the Dishwasher with Fuzzy Logic
+- For this code, the article on fuzzy logic modeling with a dishwasher on https://mmo.org.tr/sites/default/files/deb1c54814305ca_ek.pdf was used.
  - In this project, a fuzzy logic modeling of a dishwasher was developed using several input parameters (e.g. the degree of soiling of dishes, type of dishes, amount of detergent, etc.) and an output parameter (e.g. washing time, water temperature, etc.). The fuzzy logic approach models many complex and uncertain relationships of a dishwasher based on its input parameters.
 This project aims to create a fuzzy logic system to control a dishwasher. The code is written in Python and uses the scikit-fuzzy library.
 
